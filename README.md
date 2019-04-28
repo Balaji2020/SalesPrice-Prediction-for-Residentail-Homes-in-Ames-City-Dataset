@@ -1,3 +1,3 @@
-# SalesPrice-Prediction-for-Residentail-Homes-in-Ames-City-Dataset
-![image.png](House.png)
+# SalesPrice Prediction for Residentail Homes in Ames City Dataset
+![image.png](Images/House image.png)
 
